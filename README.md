@@ -3,7 +3,7 @@
  <h3 align="center"> I love working with people who aren’t afraid to say, “I have no idea what this does.”</h3>
  <h3 align="center"> Open source lets me build with people I’ve never met, and I think that’s pretty magical.</h3>
 
-- 🌱 I’m currently learning **next js, aws, kubernetes**
+- 🌱 I’m currently learning **next js**
 
 - 📫 How to reach me **ahmedfahimwork@gmail.com**
 
