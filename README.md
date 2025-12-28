@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fahim Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Fahim </h1>
 <h3 align="center">Fullstack developer with a tendency to overcommit—to both Git and side projects.</h3>
  <h3 align="center"> I love working with people who aren’t afraid to say, “I have no idea what this does.”</h3>
  <h3 align="center"> Open source lets me build with people I’ve never met, and I think that’s pretty magical.</h3>
