@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fahim </h1>
-<h3 align="center">Full-stack developer with a strong interest in backend systems, infrastructure, and cloud</h3>
  <h3 align="center"> I enjoy working on the parts of software that make things reliable, scalable, and efficient behind the scenes.</h3>
- <h3 align="center"> Open source lets me build with people I’ve never met, and I think that’s pretty magical.</h3>
-
-- 🌱 I’m currently learning **Azure Cloud**
 
 - 📫 How to reach me **ahmedfahimwork@gmail.com**
 
