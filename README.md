@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fahim </h1>
+<h1 align="center">Hi, I'm Fahim </h1>
  <h3 align="center"> I enjoy working on the parts of software that make things reliable, scalable, and efficient behind the scenes.</h3>
 
 - 📫 How to reach me **ahmedfahimwork@gmail.com**
